@@ -76,7 +76,7 @@
         "rocketseat"
     ],
     "terminal.integrated.showExitAlert": false,
-    "window.zoomLevel": 1,
+    "window.zoomLevel": 0,
     "cSpell.words": [
         "typeorm",
         "varchar"
