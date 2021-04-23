@@ -34,6 +34,8 @@ class MessagesService {
       where: { user_id },
       relations: ["user"]
     });
+
+    return list;
   }
 }
 
